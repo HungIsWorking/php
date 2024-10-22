@@ -20,7 +20,7 @@
     "type": "library",
     "require": {
 		"php": ">=7.2",
-        "phpseclib/phpseclib": "^2",
+        "phpseclib/phpseclib": "^3",
         "monolog/monolog": "*",
         "bramus/monolog-colored-line-formatter": "^3.0",
         "ext-json":  "*"
